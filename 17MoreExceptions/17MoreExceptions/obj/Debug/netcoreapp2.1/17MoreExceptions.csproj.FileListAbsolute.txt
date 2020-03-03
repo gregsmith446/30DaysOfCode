@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\bin\Debug\netcoreapp2.1\17MoreExceptions.deps.json
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\bin\Debug\netcoreapp2.1\17MoreExceptions.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\bin\Debug\netcoreapp2.1\17MoreExceptions.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\bin\Debug\netcoreapp2.1\17MoreExceptions.dll
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\bin\Debug\netcoreapp2.1\17MoreExceptions.pdb
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.dll
+C:\Users\gregs\Desktop\CD\17MoreExceptions\17MoreExceptions\obj\Debug\netcoreapp2.1\17MoreExceptions.pdb

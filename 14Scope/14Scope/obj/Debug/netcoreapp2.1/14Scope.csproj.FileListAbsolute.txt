@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\bin\Debug\netcoreapp2.1\14Scope.deps.json
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\bin\Debug\netcoreapp2.1\14Scope.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\bin\Debug\netcoreapp2.1\14Scope.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\bin\Debug\netcoreapp2.1\14Scope.dll
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\bin\Debug\netcoreapp2.1\14Scope.pdb
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.dll
+C:\Users\gregs\Desktop\CD\14Scope\14Scope\obj\Debug\netcoreapp2.1\14Scope.pdb

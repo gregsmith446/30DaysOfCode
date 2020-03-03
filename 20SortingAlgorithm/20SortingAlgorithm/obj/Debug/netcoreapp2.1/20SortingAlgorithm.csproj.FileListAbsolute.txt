@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\bin\Debug\netcoreapp2.1\20SortingAlgorithm.deps.json
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\bin\Debug\netcoreapp2.1\20SortingAlgorithm.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\bin\Debug\netcoreapp2.1\20SortingAlgorithm.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\bin\Debug\netcoreapp2.1\20SortingAlgorithm.dll
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\bin\Debug\netcoreapp2.1\20SortingAlgorithm.pdb
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.dll
+C:\Users\gregs\Desktop\CD\20SortingAlgorithm\20SortingAlgorithm\obj\Debug\netcoreapp2.1\20SortingAlgorithm.pdb

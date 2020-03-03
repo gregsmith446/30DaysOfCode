@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\bin\Debug\netcoreapp2.1\29Bitwise.deps.json
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\bin\Debug\netcoreapp2.1\29Bitwise.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\bin\Debug\netcoreapp2.1\29Bitwise.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\bin\Debug\netcoreapp2.1\29Bitwise.dll
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\bin\Debug\netcoreapp2.1\29Bitwise.pdb
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.dll
+C:\Users\gregs\Desktop\CD\29Bitwise\29Bitwise\obj\Debug\netcoreapp2.1\29Bitwise.pdb

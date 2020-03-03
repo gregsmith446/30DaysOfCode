@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\bin\Debug\netcoreapp2.1\23LevelOrderTraversalBST.deps.json
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\bin\Debug\netcoreapp2.1\23LevelOrderTraversalBST.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\bin\Debug\netcoreapp2.1\23LevelOrderTraversalBST.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\bin\Debug\netcoreapp2.1\23LevelOrderTraversalBST.dll
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\bin\Debug\netcoreapp2.1\23LevelOrderTraversalBST.pdb
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.dll
+C:\Users\gregs\Desktop\CD\23LevelOrderTraversalBST\23LevelOrderTraversalBST\obj\Debug\netcoreapp2.1\23LevelOrderTraversalBST.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\bin\Debug\netcoreapp2.1\25RunningTimeAndComplexity.deps.json
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\bin\Debug\netcoreapp2.1\25RunningTimeAndComplexity.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\bin\Debug\netcoreapp2.1\25RunningTimeAndComplexity.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\bin\Debug\netcoreapp2.1\25RunningTimeAndComplexity.dll
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\bin\Debug\netcoreapp2.1\25RunningTimeAndComplexity.pdb
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.dll
+C:\Users\gregs\Desktop\CD\25RunningTimeAndComplexity\25RunningTimeAndComplexity\obj\Debug\netcoreapp2.1\25RunningTimeAndComplexity.pdb

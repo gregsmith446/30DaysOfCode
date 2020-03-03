@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\bin\Debug\netcoreapp2.1\18QueuesAndStacks.deps.json
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\bin\Debug\netcoreapp2.1\18QueuesAndStacks.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\bin\Debug\netcoreapp2.1\18QueuesAndStacks.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\bin\Debug\netcoreapp2.1\18QueuesAndStacks.dll
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\bin\Debug\netcoreapp2.1\18QueuesAndStacks.pdb
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.dll
+C:\Users\gregs\Desktop\CD\18QueuesAndStacks\18QueuesAndStacks\obj\Debug\netcoreapp2.1\18QueuesAndStacks.pdb

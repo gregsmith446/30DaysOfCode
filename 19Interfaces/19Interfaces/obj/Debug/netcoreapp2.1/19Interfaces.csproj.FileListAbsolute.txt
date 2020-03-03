@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\bin\Debug\netcoreapp2.1\19Interfaces.deps.json
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\bin\Debug\netcoreapp2.1\19Interfaces.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\bin\Debug\netcoreapp2.1\19Interfaces.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\bin\Debug\netcoreapp2.1\19Interfaces.dll
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\bin\Debug\netcoreapp2.1\19Interfaces.pdb
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.dll
+C:\Users\gregs\Desktop\CD\19Interfaces\19Interfaces\obj\Debug\netcoreapp2.1\19Interfaces.pdb

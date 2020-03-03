@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\bin\Debug\netcoreapp2.1\2DayArrays.deps.json
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\bin\Debug\netcoreapp2.1\2DayArrays.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\bin\Debug\netcoreapp2.1\2DayArrays.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\bin\Debug\netcoreapp2.1\2DayArrays.dll
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\bin\Debug\netcoreapp2.1\2DayArrays.pdb
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.dll
+C:\Users\gregs\Desktop\CD\2DayArrays\2DayArrays\obj\Debug\netcoreapp2.1\2DayArrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\bin\Debug\netcoreapp2.1\13AbstractClasses.deps.json
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\bin\Debug\netcoreapp2.1\13AbstractClasses.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\bin\Debug\netcoreapp2.1\13AbstractClasses.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\bin\Debug\netcoreapp2.1\13AbstractClasses.dll
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\bin\Debug\netcoreapp2.1\13AbstractClasses.pdb
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.dll
+C:\Users\gregs\Desktop\CD\13AbstractClasses\13AbstractClasses\obj\Debug\netcoreapp2.1\13AbstractClasses.pdb

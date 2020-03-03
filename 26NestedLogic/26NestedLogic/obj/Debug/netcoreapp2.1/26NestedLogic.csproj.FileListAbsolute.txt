@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\bin\Debug\netcoreapp2.1\26NestedLogic.deps.json
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\bin\Debug\netcoreapp2.1\26NestedLogic.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\bin\Debug\netcoreapp2.1\26NestedLogic.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\bin\Debug\netcoreapp2.1\26NestedLogic.dll
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\bin\Debug\netcoreapp2.1\26NestedLogic.pdb
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.dll
+C:\Users\gregs\Desktop\CD\26NestedLogic\26NestedLogic\obj\Debug\netcoreapp2.1\26NestedLogic.pdb

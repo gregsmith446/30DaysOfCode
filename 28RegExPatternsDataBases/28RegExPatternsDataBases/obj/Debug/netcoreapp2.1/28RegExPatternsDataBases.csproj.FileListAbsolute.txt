@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\bin\Debug\netcoreapp2.1\28RegExPatternsDataBases.deps.json
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\bin\Debug\netcoreapp2.1\28RegExPatternsDataBases.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\bin\Debug\netcoreapp2.1\28RegExPatternsDataBases.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\bin\Debug\netcoreapp2.1\28RegExPatternsDataBases.dll
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\bin\Debug\netcoreapp2.1\28RegExPatternsDataBases.pdb
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.dll
+C:\Users\gregs\Desktop\CD\28RegExPatternsDataBases\28RegExPatternsDataBases\obj\Debug\netcoreapp2.1\28RegExPatternsDataBases.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\bin\Debug\netcoreapp2.1\12Inheritance.deps.json
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\bin\Debug\netcoreapp2.1\12Inheritance.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\bin\Debug\netcoreapp2.1\12Inheritance.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\bin\Debug\netcoreapp2.1\12Inheritance.dll
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\bin\Debug\netcoreapp2.1\12Inheritance.pdb
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.dll
+C:\Users\gregs\Desktop\CD\12Inheritance\12Inheritance\obj\Debug\netcoreapp2.1\12Inheritance.pdb

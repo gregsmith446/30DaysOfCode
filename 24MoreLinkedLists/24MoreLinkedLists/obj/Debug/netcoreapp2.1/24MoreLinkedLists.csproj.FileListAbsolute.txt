@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\bin\Debug\netcoreapp2.1\24MoreLinkedLists.deps.json
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\bin\Debug\netcoreapp2.1\24MoreLinkedLists.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\bin\Debug\netcoreapp2.1\24MoreLinkedLists.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\bin\Debug\netcoreapp2.1\24MoreLinkedLists.dll
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\bin\Debug\netcoreapp2.1\24MoreLinkedLists.pdb
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.dll
+C:\Users\gregs\Desktop\CD\24MoreLinkedLists\24MoreLinkedLists\obj\Debug\netcoreapp2.1\24MoreLinkedLists.pdb

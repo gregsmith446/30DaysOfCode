@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\bin\Debug\netcoreapp2.1\21GenericFunctions.deps.json
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\bin\Debug\netcoreapp2.1\21GenericFunctions.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\bin\Debug\netcoreapp2.1\21GenericFunctions.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\bin\Debug\netcoreapp2.1\21GenericFunctions.dll
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\bin\Debug\netcoreapp2.1\21GenericFunctions.pdb
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.dll
+C:\Users\gregs\Desktop\CD\21GenericFunctions\21GenericFunctions\obj\Debug\netcoreapp2.1\21GenericFunctions.pdb
